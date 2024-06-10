@@ -1,3 +1,7 @@
+[GitHub репозиторий исходной версии](https://github.com/AlexGyver/ColorMusic)
+
+## Описание проекта
+
 ![PROJECT_PHOTO](https://github.com/AlexGyver/ColorMusic/blob/master/proj_img.jpg)
 # Светомузыка на Arduino и WS2812b
 * [Описание проекта](#chapter-0)
